@@ -7,4 +7,4 @@ I played the game a little bit until I got bored and ended up making an autockic
 
 Just run the [`python file`](./WhiteTile.py)
 
-![Image]('./Demo.gif')
+![Image](Demo.gif)
