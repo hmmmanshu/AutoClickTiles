@@ -7,4 +7,6 @@ I played the game a little bit until I got bored and ended up making an autockic
 
 Just run the [`python file`](./WhiteTile.py)
 
+**NOTE** Do not run the game fullscreen and it is made on a 1920x1080 screen and works on the same
+
 ![Image](Demo.gif)
